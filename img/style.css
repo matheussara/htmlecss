@@ -81,7 +81,7 @@ body{
     font-size: 48px;
     color: var(--branco-principal);
     margin-bottom: 0.1em;
-}.secundario-botao
+}
 
 .descricao-texto{
     color: var(--cinza-secundario);
@@ -112,34 +112,4 @@ body{
 }
 .lista-link a:hover{
     color: var(--botao-azul);
-}
-
-.estatisticas-lista{
-    display: flex;
-    justify-content: center;
-    list-style-type: none;
-    margin: 5em 0;
-}    
-.estatisticas{
-    text-align: center;
-}
-
-
-.estatisticas-titulo{
-    font-size: 48px;
-    color: var(--branco-principal);
-}
-
-.estatisticas-item{
-    font-size: 32px;
-    color: var(--branco-principal);
-}
-
-.lista-link a:active{
-    color: purple;
-}
-
-.container_botao:hover{
-    background-color: var(--botao-azul-efeito);
-    color: var(--cor-de-fundo);
-}
+}   
